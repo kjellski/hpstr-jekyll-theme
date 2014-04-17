@@ -13,9 +13,9 @@ owner:
   # Social networking links used in footer. Update and remove as you like.
   twitter:        http://twitter.com/kjellski
   facebook:
-  github:
-  stackexchange:
-  linkedin:
+  github:         https://github.com/kjellski
+  stackexchange:  http://stackoverflow.com/users/603309/kjellski
+  linkedin:       https://www.linkedin.com/pub/kjell-otto/10/b51/361
   instagram:
   flickr:
   tumblr:
@@ -26,7 +26,7 @@ owner:
 background:
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:
+google_analytics: UA-41779627-1
 google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:
