@@ -1,3 +1,4 @@
+/*globals initBorderMenu*/
 /*! Plugin options and other jQuery stuff */
 
 // dl-menu options
@@ -24,3 +25,7 @@ $(".about").click(function () {
 $(".close-about").click(function () {
   $("#about").css('display','');
 });
+
+/* {% if site.custom_navigation %} */
+initBorderMenu();
+/* {% endif %} */
